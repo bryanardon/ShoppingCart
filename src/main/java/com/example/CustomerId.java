@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.regex.Pattern;
 
-public final class CustomerId {
+final class CustomerId {
     private final String lexeme;
 
     CustomerId(String lexeme) {
